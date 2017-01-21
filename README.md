@@ -2,7 +2,7 @@
 
 This is a system to analyze and visualize online reviews about Samsung products. We created it when I was doing an intership in Tsinghua University National Laboratory. This project is funded by Samsung Group.
 
-<img src="/img/cReviewMiner.png" width="40%" height="40%">
+<img src="/img/cReviewMiner.png" width="100%" height="100%">
 
 # Links
 [Video demo](https://youtu.be/Fdh_XmvVV4c)
